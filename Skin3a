@@ -41,8 +41,7 @@ textarea:focus,
   background-repeat: no-repeat;
   background-position: left bottom;
   background-attachment: fixed;
-  width: 100%;
-  background-size: contain;
+  background-size: 100% auto;
 }
 
 #header {
